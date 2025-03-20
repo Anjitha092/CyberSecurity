@@ -1,0 +1,12 @@
+ls - List files and folders in current directory
+cat - Concatenate
+pwd - Print Working Directory
+echo - prints the text as it is
+grep - find specific words within a file
+find  -Used to find file among folders in a directory
+cd - change directory
+
+Shell Operators: & - Used to run commands in the background (like copy paste),
+                 && - Used to join more than one command and executes in order,
+                 > - Used to redirect output to the file specified, it overwrites the content if the file already exists
+                 >> - Used to redirect output to the file specified, but does not overwrite the content if the file already exists
