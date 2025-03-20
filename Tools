@@ -2,3 +2,8 @@ Nmap
 Wireshark
 Kali Linux
 Microsoft Azure Sentinel - SEIM
+
+
+
+Tools used in tryhack me OHSINT - Open Source Intelligence
+ * exiftool - Used for reading, writing, editing metadata in a wide variety of formats including images, audio, video and documents.
